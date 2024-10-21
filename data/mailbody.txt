@@ -1,0 +1,8 @@
+Beste {{Voornaam}}
+
+In bijlage vindt u het attest voor ziekenfonds voor seizoen {{Seizoen}}.
+
+Met vriendelijke groeten
+Dieter Tack
+Ledenverantwoordelijke
+IZBA, Izegemse Badmintonclub vzw
